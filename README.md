@@ -10,4 +10,7 @@ This App uses Public API https://pokeapi.co/ to fetch pokemons. It's structured 
 - Timber for Logging
 - Compose for UI
 
-![pokedex](https://user-images.githubusercontent.com/48530342/119107148-a5052200-ba27-11eb-8c54-13bb9297f70c.gif)
+![pokedex-1](https://user-images.githubusercontent.com/48530342/119108867-56f11e00-ba29-11eb-926c-74e2e7b3cbb2.gif)
+
+
+![pokedex-2](https://user-images.githubusercontent.com/48530342/119109003-75efb000-ba29-11eb-8ba3-5959a0a3ffb3.gif)
